@@ -1,4 +1,4 @@
-# dumbbot
+# dumbbot commands
 | Command | Description |
 | --- | --- |
 | say | say something |
