@@ -1,9 +1,9 @@
 
 {
-    "room":                     "Radiant Music",
-    "author":                   "Origin",
+    "room":                     "Club Donut",
+    "author":                   "DonutInferno",
     "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      null,
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
