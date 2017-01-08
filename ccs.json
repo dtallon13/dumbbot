@@ -28,18 +28,18 @@
         "user": null
     },
     },
-    "images": {
-        "background": null,
-        "playback": null,
-        "admin": null,
-        "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
-        "subscriber": null,
-        "silversubscriber": null,
+   "images": {
+        "background":           null,
+        "playback":             null,
+        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":                 null,
+        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
+        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
+        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "subscriber":           null,
+        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
     },
     "autocomplete": {
         "!user": 0,
