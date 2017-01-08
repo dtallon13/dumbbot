@@ -1,6 +1,6 @@
 {
-    "room": "Club Donut",
-    "author": "DonutInferno",
+    "room": "Community Name",
+    "author": "Author",
     "icon": null,
     "css": null,
     "rules": {
@@ -28,7 +28,7 @@
     },
     "images": {
         "background": null,
-        "playback": "https://moveit-brasil.github.io/ccs/images/playback.png",
+        "playback": null,
         "admin": null,
         "ambassador": null,
         "host": null,
